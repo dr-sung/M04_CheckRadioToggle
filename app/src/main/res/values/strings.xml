@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">M04_CheckRadioToggle</string>
+    <string name="checkbox_android">Android</string>
+    <string name="checkbox_iphone">iPhone</string>
+    <string name="radiobutton_yes">Yes</string>
+    <string name="radiobutton_no">No</string>
+    <string name="radiobutton_maybe">Maybe</string>
+    <string name="toggle_on">Running</string>
+    <string name="toggle_off">Stopped</string>
+</resources>
